@@ -1,0 +1,113 @@
+{
+  "versaoUso": {
+    "dataAtualizacao": "2019-12-10 02:10"
+    },
+  "ferramentas": {
+    "1": {
+      "v": "single",
+      "nome": "SINGLE",
+      "tituloHome": "SIMULADOR DE NEGOCIAÇÃO DE RETENÇÃO",
+      "tituloPage": "Simulador de Negociação de Retenção",
+      "atualMovel": false,
+      "movelCompleto": false,
+      "precoCombinadoAtivo": false
+      },
+    "2": {
+      "v": "massivo",
+      "nome": "MASSIVO",
+      "tituloHome": "SIMULADOR DE NEGOCIAÇÃO DE RETENÇÃO",
+      "tituloPage": "Simulador de Negociação de Retenção",
+      "atualMovel": false,
+      "movelCompleto": true,
+      "precoCombinadoAtivo": true
+    },
+    "3": {
+      "v": "cmulti",
+      "nome": "COMBO MULTI", 
+      "tituloHome": "SIMULADOR DE NEGOCIAÇÃO DE RETENÇÃO",
+      "tituloPage": "Simulador de Negociação de Retenção",
+      "atualMovel": true,
+      "movelCompleto": true,
+      "precoCombinadoAtivo": true
+    },
+    "4": {
+      "v": "avalor",
+      "nome": "ALTO VALOR",
+      "tituloHome": "SIMULADOR DE NEGOCIAÇÃO DE RETENÇÃO",
+      "tituloPage": "Simulador de Negociação de Retenção",
+      "atualMovel": true,
+      "movelCompleto": false,
+      "precoCombinadoAtivo": true
+    },
+    "5": {
+      "v": "reversao",
+      "nome": "REVERSÃO MASSIVO (MTF)", 
+      "tituloHome": "SIMULADOR DE NEGOCIAÇÃO DE REVERSÃO",
+      "tituloPage": "Simulador de Negociação de Reversão",
+      "atualMovel": true,
+      "movelCompleto": true,
+      "precoCombinadoAtivo": true
+    }
+  },
+	"faixaPontuacao": [
+    {"de":   0, "pontos":   0, "classCor": "pontosgray"},
+    {"de":  40, "pontos":  20, "classCor": "pontosreddark"},
+    {"de":  65, "pontos":  40, "classCor": "pontosred"},
+    {"de":  75, "pontos":  60, "classCor": "pontosorange"},
+    {"de":  85, "pontos":  80, "classCor": "pontosyellow"},
+    {"de":  95, "pontos": 100, "classCor": "pontosgreen"},
+    {"de": 105, "pontos": 120, "classCor": "pontosgreendark"}
+  ],
+  "optCalculo": {
+    "1": {"limite": 5, "limiteEmp": 2, "rankAtivo": true ,"intervalo": [
+      {"de": -5, "ate": 20, "ate2": 50}
+      ]
+    },
+    "2": {"limite": 5, "limiteEmp": 2, "rankAtivo": true, "intervalo": [
+      {"de": -5, "ate": 5, "ate2": 5 }
+      ]
+    },
+    "3": {"limite": 5, "limiteEmp": 2, "rankAtivo": true, "intervalo": [
+      {"de": -5, "ate": 0, "ate2": 0 }
+      ]
+    },
+    "4": {"limite": 3, "limiteEmp": 2, "rankAtivo": true, "intervalo": [
+      {"de": -10, "ate": -5, "ate2": -5 },
+      {"de": -20, "ate": -10, "ate2": -10 },
+      {"de": -30, "ate": -20, "ate2": -20 }
+      ]
+    },
+    "5": {"limite": 5, "limiteEmp": 2, "rankAtivo": true, "intervalo": [
+      {"de": -5, "ate": 20, "ate2": 20 }
+      ]
+    }
+  },
+  "pacoteTV": [
+    {"pacote": "Filmes e Séries", "sigla": "FL SR", "canais": ["HBO", "Telecine HD", "Telecine SD", "Paramount +", "Fox Premium", "Filmes e Séries"]},
+    {"pacote": "Futebol", "sigla": "FUT", "canais": ["Premiere"]}
+  ],
+  "erros":
+  {
+    "maisProdutos": "ATENÇÃO: Ofereça mais benefícios que o cliente não possui em Selecionar Produto e rode o passo novamente (exemplo: Premiere, HBO, Telecine, Paramount +, HD Max).",
+    "pacoteErrado": "Pacote entrado de maneira incorreta, verifique.",
+    "semSugestao":  "Não existe pacote que reduza o valor do cliente, cliente já possui valor menor que de qualquer pacote existente.",
+    "precoMenor":   "Preço atual menor que preço de prateleira"
+  },
+  "help": {
+    "pacoteAtual":     "Preencha o pacote atual do cliente à partir de informações disponíveis no NETSMS. Não esqueça de incluir os produtos la carte (HBO, Telecine, Paramount +, Premiere, etc.)",
+    "precoAtual":      "<span>Preencha o preço atual pago pelo cliente à partir das informações disponíveis no <b>campo de assinatura</b> do NETSMS. O campo 'Outros' deve incluir os adicionais que o cliente possui, como pacotes a la carte, HD Max, 4K, etc.</span>",
+    "prefCliente":     "Marque qual a preferência informada pelo cliente: prefere/usa mais banda larga ou TV",
+    "selecProduto":    "Adicione ou remova produtos do cliente para simulação. Por exemplo: caso queira que o simulador dê opções com um la carte que o cliente não possui, adicione aqui.",
+    "mudarFone":       "Escolha o plano de telefone que o simulador irá utilizar para sugerir as ofertas. Tente sempre manter ou melhorar o plano atual do cliente",
+    "pacoteCelular":   "Caso o cliente informe, preencha com as informações do pacote atual de celular do cliente. *Este não é um campo obrigatório",
+    "abordagem":       "Siga o passo-a-passo da abordagem e verique as opções de oferta em cada passo. IMPORTANTE: Não pule nenhum passo",
+    "ofertasNET":      "Escolha a melhor oferta para a situação do cliente. Clique no campo 'Outros' para ver o preço dos produtos adicionais.",
+    "selecPlanoMovel": "Escolha o plano de móvel que deseja incluir na oferta para o cliente.",
+    "ofertasCombo":    "Escolha a melhor oferta Combo Multi para a situação do cliente. Clique no campo 'Outros' para ver o preço dos produtos adicionais."
+  },
+  "validaForm": {
+    "precoAtualIndefinido": "Preço atual indefinido (NET)",
+    "produtoIndefinido":    "Não há produto selecionado"
+  }
+
+}

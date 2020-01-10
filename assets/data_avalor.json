@@ -1,0 +1,1316 @@
+﻿{
+	"produtos": {
+		"combinado": {
+			"tv": [
+				{
+					"descricao": "Nenhum",
+					"nomeSistema": "Nenhum",
+					"preco": 0,
+					"tipoPreco": "",
+					"matriz": "completa",
+					"rank": 0,
+					"requerP": ""
+				},
+				{
+					"descricao": "FACIL HD TURBO",
+					"nomeSistema": "FACIL HD TURBO C/VTA PAD EXC RET FID",
+					"preco": 70,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 4
+				},
+				{
+					"descricao": "FACIL HD TURBO",
+					"nomeSistema": "FACIL HD TURBO C/VTA ATQ EXC RET FID",
+					"preco": 60,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 4
+				},
+				{
+					"descricao": "Mix HD",
+					"nomeSistema": "MIX HD C/VTA PAD EXC RET FID",
+					"preco": 90,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 5
+				},
+				{
+					"descricao": "Mix HD",
+					"nomeSistema": "MIX HD C/VTA ATQ EXC RET FID",
+					"preco": 80,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 5
+				},
+
+
+				{
+					"descricao": "Mix HD",
+					"nomeSistema": "MIX HD FL SR C/VTA PAD EXC RET FID",
+					"preco": 160,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 5
+				},
+				{
+					"descricao": "Mix HD",
+					"nomeSistema": "MIX HD FL SR C/VTA ATQ EXC RET FID",
+					"preco": 150,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 5
+				},
+
+
+				{
+					"descricao": "Mix HD",
+					"nomeSistema": "MIX HD FUT C/VTA PAD EXC RET FID",
+					"preco": 182,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 5
+				},
+				{
+					"descricao": "Mix HD",
+					"nomeSistema": "MIX HD FUT C/VTA ATQ EXC RET FID",
+					"preco": 172,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 5
+				},
+
+
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD C/VTA PAD EXC RET FID",
+					"preco": 130,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 6
+				},
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD C/VTA ATQ EXC RET FID",
+					"preco": 110,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 6
+				},
+
+
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD FL SR C/VTA PAD EXC RET FID",
+					"preco": 200,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 6
+				},
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD FL SR C/VTA ATQ EXC RET FID",
+					"preco": 180,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 6
+				},
+
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD MAX FL SR C/VTA PAD EXC RET FID",
+					"preco": 210,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 6
+				},
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD MAX FL SR C/VTA ATQ EXC RET FID",
+					"preco": 190,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 6
+				},
+				
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD 4K FL SR C/VTA PAD EXC RET FID",
+					"preco": 210,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 6
+				},
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD 4K FL SR C/VTA ATQ EXC RET FID",
+					"preco": 190,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 6
+				},
+
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD FUT C/VTA PAD EXC RET FID",
+					"preco": 222,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 6
+				},
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD FUT C/VTA ATQ EXC RET FID",
+					"preco": 202,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 6
+				},
+				
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD MAX FUT C/VTA PAD EXC RET FID",
+					"preco": 232,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 6
+				},
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD MAX FUT C/VTA ATQ EXC RET FID",
+					"preco": 212,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 6
+				},
+
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD 4K FUT C/VTA PAD EXC RET FID",
+					"preco": 232,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 6
+				},
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD 4K FUT C/VTA ATQ EXC RET FID",
+					"preco": 212,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 6
+				},
+
+
+				{
+					"descricao": "Top HD MAX",
+					"nomeSistema": "TOP HD MAX C/VTA PAD EXC RET FID",
+					"preco": 140,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 6
+				},
+				{
+					"descricao": "Top HD MAX",
+					"nomeSistema": "TOP HD MAX C/VTA ATQ EXC RET FID",
+					"preco": 120,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 6
+				},
+				{
+					"descricao": "Top HD 4K",
+					"nomeSistema": "TOP HD 4K C/VTA PAD EXC RET FID",
+					"preco": 140,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 6
+				},
+				{
+					"descricao": "Top HD 4K",
+					"nomeSistema": "TOP HD 4K C/VTA ATQ EXC RET FID",
+					"preco": 120,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 6
+				}
+			],
+			"bandaLarga": [
+				{
+					"descricao": "Nenhum",
+					"nomeSistema": "Nenhum",
+					"preco": 0,
+					"tipoPreco": "",
+					"matriz": "completa",
+					"rank": 0,
+					"requerP": ""
+				},
+				{
+					"descricao": "5 MB",
+					"nomeSistema": "VIRTUA 5M C/TV PAD EXC RET FID",
+					"preco": 50,
+					"tipoPreco": "Prateleira",
+					"matriz": "reduzido",
+					"rank": 1
+				},
+				{
+					"descricao": "5 MB",
+					"nomeSistema": "VIRTUA 5M C/TV ATQ EXC RET FID",
+					"preco": 40,
+					"tipoPreco": "Ataque",
+					"matriz": "reduzido",
+					"rank": 1
+				},
+				{
+					"descricao": "15 MB",
+					"nomeSistema": "VIRTUA 15M C/TV PAD EXC RET FID",
+					"preco": 80,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 2
+				},
+				{
+					"descricao": "15 MB",
+					"nomeSistema": "VIRTUA 15M C/TV ATQ EXC RET FID",
+					"preco": 70,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 2
+				},
+				{
+					"descricao": "35 MB",
+					"nomeSistema": "VIRTUA 35M C/TV PAD EXC RET FID",
+					"preco": 95,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 3
+				},
+				{
+					"descricao": "35 MB",
+					"nomeSistema": "VIRTUA 35M C/TV ATQ EXC RET FID",
+					"preco": 80,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 3
+				},
+				{
+					"descricao": "60 MB",
+					"nomeSistema": "VIRTUA 60M C/TV PAD EXC RET FID",
+					"preco": 110,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 4
+				},
+				{
+					"descricao": "60 MB",
+					"nomeSistema": "VIRTUA 60M C/TV ATQ EXC RET FID",
+					"preco": 90,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 4
+				},
+				{
+					"descricao": "70 MB",
+					"nomeSistema": "VIRTUA 70M MULTI C/TV PAD EXC RET FID",
+					"preco": 95,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 4
+				},
+				{
+					"descricao": "70 MB",
+					"nomeSistema": "VIRTUA 70M MULTI C/TV ATQ EXC RET FID",
+					"preco": 80,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 4
+				},
+				{
+					"descricao": "120 MB",
+					"nomeSistema": "VIRTUA 120M C/TV PAD EXC RET FID",
+					"preco": 120,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 5
+				},
+				{
+					"descricao": "120 MB",
+					"nomeSistema": "VIRTUA 120M C/TV ATQ EXC RET FID",
+					"preco": 100,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 5
+				},
+				{
+					"descricao": "240 MB",
+					"nomeSistema": "VIRTUA 240M MULTI C/TV PAD EXC RET FID",
+					"preco": 120,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 5
+				},
+				{
+					"descricao": "240 MB",
+					"nomeSistema": "VIRTUA 240M MULTI C/TV ATQ EXC RET FID",
+					"preco": 100,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 5
+				},
+				{
+					"descricao": "240 MB",
+					"nomeSistema": "VIRTUA 240M C/TV PAD EXC RET FID",
+					"preco": 145,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 6
+				},
+				{
+					"descricao": "240 MB",
+					"nomeSistema": "VIRTUA 240M C/TV ATQ EXC RET FID",
+					"preco": 125,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 6
+				}
+			]
+		},
+		"single": {
+			"tv": [
+				{
+					"descricao": "Nenhum",
+					"nomeSistema": "Nenhum",
+					"preco": 0,
+					"tipoPreco": "",
+					"matriz": "completa",
+					"rank": 0,
+					"requerP": ""
+				},
+								
+				{
+					"descricao": "FACIL HD TURBO",
+					"nomeSistema": "FACIL HD TURBO IND PAD EXC RET FID",
+					"preco": 80,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 4
+				},
+				{
+					"descricao": "FACIL HD TURBO",
+					"nomeSistema": "FACIL HD TURBO IND ATQ EXC RET FID",
+					"preco": 70,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 4
+				},
+
+				{
+					"descricao": "Mix HD",
+					"nomeSistema": "MIX HD IND PAD EXC RET FID",
+					"preco": 100,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 5
+				},
+				{
+					"descricao": "Mix HD",
+					"nomeSistema": "MIX HD IND ATQ EXC RET FID",
+					"preco": 90,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 5
+				},
+
+				
+				{
+					"descricao": "Mix HD",
+					"nomeSistema": "MIX HD FL SR IND PAD EXC RET FID",
+					"preco": 170,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 5
+				},
+				{
+					"descricao": "Mix HD",
+					"nomeSistema": "MIX HD FL SR IND ATQ EXC RET FID",
+					"preco": 160,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 5
+				},
+
+				
+				{
+					"descricao": "Mix HD",
+					"nomeSistema": "MIX HD FUT IND PAD EXC RET FID",
+					"preco": 192,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 5
+				},
+				{
+					"descricao": "Mix HD",
+					"nomeSistema": "MIX HD FUT IND ATQ EXC RET FID",
+					"preco": 182,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 5
+				},
+
+
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD IND PAD EXC RET FID",
+					"preco": 140,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 6
+				},
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD IND ATQ EXC RET FID",
+					"preco": 130,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 6
+				},
+
+
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD FL SR IND PAD EXC RET FID",
+					"preco": 210,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 6
+				},
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD FL SR IND ATQ EXC RET FID",
+					"preco": 200,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 6
+				},			
+				
+				
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD MAX FL SR IND PAD EXC RET FID",
+					"preco": 230,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 6
+				},
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD MAX FL SR IND ATQ EXC RET FID",
+					"preco": 220,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 6
+				},		
+				
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD 4K FL SR IND PAD EXC RET FID",
+					"preco": 220,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 6
+				},
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD 4K FL SR IND ATQ EXC RET FID",
+					"preco": 210,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 6
+				},	
+
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD FUT IND PAD EXC RET FID",
+					"preco": 232,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 6
+				},
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD FUT IND ATQ EXC RET FID",
+					"preco": 222,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 6
+				},
+
+
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD MAX FUT IND PAD EXC RET FID",
+					"preco": 242,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 6
+				},
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD MAX FUT IND ATQ EXC RET FID",
+					"preco": 232,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 6
+				},
+
+
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD 4K FL SR IND PAD EXC RET FID",
+					"preco": 242,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 6
+				},
+				{
+					"descricao": "Top HD",
+					"nomeSistema": "TOP HD 4K FL SR C/VTA ATQ EXC RET FID",
+					"preco": 232,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 6
+				},
+				
+
+				{
+					"descricao": "Top HD MAX",
+					"nomeSistema": "TOP HD MAX IND PAD EXC RET FID",
+					"preco": 150,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 6
+				},
+				{
+					"descricao": "Top HD MAX",
+					"nomeSistema": "TOP HD MAX IND ATQ EXC RET FID",
+					"preco": 140,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 6
+				},
+				{
+					"descricao": "Top HD 4K",
+					"nomeSistema": "TOP HD 4K IND PAD EXC RET FID",
+					"preco": 150,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 6
+				},
+				{
+					"descricao": "Top HD 4K",
+					"nomeSistema": "TOP HD 4K IND ATQ EXC RET FID",
+					"preco": 140,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 6
+				}
+			],
+			"bandaLarga": [
+				{
+					"descricao": "Nenhum",
+					"nomeSistema": "Nenhum",
+					"preco": 0,
+					"tipoPreco": "",
+					"matriz": "completa",
+					"rank": 0,
+					"requerP": ""
+				},
+				{
+					"descricao": "5 MB",
+					"nomeSistema": "VIRTUA 5M IND PAD EXC RET FID",
+					"preco": 60,
+					"tipoPreco": "Prateleira",
+					"matriz": "reduzido",
+					"rank": 1
+				},
+				{
+					"descricao": "5 MB",
+					"nomeSistema": "VIRTUA 5M IND ATQ EXC RET FID",
+					"preco": 50,
+					"tipoPreco": "Ataque",
+					"matriz": "reduzido",
+					"rank": 1
+				},
+				{
+					"descricao": "15 MB",
+					"nomeSistema": "VIRTUA 15M IND PAD EXC RET FID",
+					"preco": 90,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 2
+				},
+				{
+					"descricao": "15 MB",
+					"nomeSistema": "VIRTUA 15M IND ATQ EXC RET FID",
+					"preco": 80,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 2
+				},
+				{
+					"descricao": "35 MB",
+					"nomeSistema": "VIRTUA 35M IND PAD EXC RET FID",
+					"preco": 105,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 3
+				},
+				{
+					"descricao": "35 MB",
+					"nomeSistema": "VIRTUA 35M IND ATQ EXC RET FID",
+					"preco": 95,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 3
+				},
+				{
+					"descricao": "60 MB",
+					"nomeSistema": "VIRTUA 60M IND PAD EXC RET FID",
+					"preco": 120,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 4
+				},
+				{
+					"descricao": "60 MB",
+					"nomeSistema": "VIRTUA 60M IND ATQ EXC RET FID",
+					"preco": 110,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 4
+				},
+				{
+					"descricao": "120 MB",
+					"nomeSistema": "VIRTUA 120M IND PAD EXC RET FID",
+					"preco": 130,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 5
+				},
+				{
+					"descricao": "120 MB",
+					"nomeSistema": "VIRTUA 120M IND ATQ EXC RET FID",
+					"preco": 120,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 5
+				},
+				{
+					"descricao": "240 MB",
+					"nomeSistema": "VIRTUA 240M IND PAD EXC RET FID",
+					"preco": 155,
+					"tipoPreco": "Prateleira",
+					"matriz": "completa",
+					"rank": 6
+				},
+				{
+					"descricao": "240 MB",
+					"nomeSistema": "VIRTUA 240M IND ATQ EXC RET FID",
+					"preco": 145,
+					"tipoPreco": "Ataque",
+					"matriz": "completa",
+					"rank": 6
+				}
+			]
+		},
+		"fone": [
+			{
+				"descricao": "Nenhum",
+				"nomeSistema": "Nenhum",
+				"preco": 0,
+				"tipoPreco": "",
+				"rank": 0
+			},
+			{
+				"descricao": "Brasil Total",
+				"nomeSistema": "FONE ILIM BR TOTAL EXC RET 20.00",
+				"preco": 20,
+				"tipoPreco": "",
+				"rank": 1
+			},
+			{
+				"descricao": " Brasil 21",
+				"nomeSistema": "FONE ILIM BR EXC RET 10.00",
+				"preco": 10,
+				"tipoPreco": "",
+				"rank": 2
+			}
+		],
+		"movel": [
+			{
+				"descricao": "Nenhum",
+				"nomeSistema": "",
+				"preco": 0,
+				"dependentes": [0]
+			},
+			{
+				"descricao": "CONTROLE APP 4GB SEM AP FID",
+				"nomeSistema": "Claro Controle 6GB",
+				"preco": 59.99,
+				"dependentes": [0]
+			},
+			{
+				"descricao": "02_CLARO POS APP 8GB - SEM APARELHO",
+				"nomeSistema": "Claro Pós 16GB",
+				"preco": 109.99,
+				"dependentes": [0,1,2]
+			},
+			{
+				"descricao": "04_CLARO POS APP 10GB - SEM APARELHO",
+				"nomeSistema": "Claro Pós 20GB",
+				"preco": 129.99,
+				"dependentes": [0,1,2,3]
+			},
+			{
+				"descricao": "PORT50_CLARO POS APP 10GB S/AP",
+				"nomeSistema": "Claro Pós 20GB com 50%",
+				"preco": 69.99,
+				"dependentes": [0,1,2,3]
+			}
+		],
+		"movelCompleto":[
+			{
+				"descricao": "Nenhum",
+				"nomeSistema": "",
+				"preco": 0,
+				"descontoTitular": [
+					{"porc": 0, "nome": ""}
+				],
+				"descontoDep": [
+					{"porc": 0, "nome": ""}
+				],
+				"BonusInternet": [
+					{"porc": 0, "nome": ""}
+				],
+				"dependentes": [0]
+			},
+			{
+				"descricao": "Controle - 3",
+				"nomeSistema": "CONTROLE PLAY 3GB - SEM APARELHO",
+				"preco": 49.99,
+				"descontoTitular": [
+					{"porc":  0, "nome": ""},
+					{"porc": 10, "nome": "380664360 - Desc10%RetMulta"},
+					{"porc": 15, "nome": "380664366 - Desc15%RetMulta"},
+					{"porc": 30, "nome": "380664368 - Desc30%RetMulta"}
+				],
+				"descontoDep": [
+					{"porc":  0, "nome": ""}
+				],
+				"BonusInternet": [
+					{"porc":  0, "nome": ""},
+					{"porc":  3, "nome": "414224846 - Bônus de dados 3GB - Promo Whatsapp"},
+					{"porc":  4, "nome": "414224845 - Bônus de dados 4GB - Promo Whatsapp"},
+					{"porc":  5, "nome": "414224847 - Bônus de dados 5GB - Promo Whatsapp"}
+				],
+				"dependentes": [0]
+			},
+			{
+				"descricao": "Controle - 4 + 2",
+				"nomeSistema": "CONTROLE PLAY 4GB - SEM APARELHO",
+				"preco": 59.99,
+				"descontoTitular": [
+					{"porc":  0, "nome": ""},
+					{"porc": 10, "nome": "380664360 - Desc10%RetMulta"},
+					{"porc": 15, "nome": "380664366 - Desc15%RetMulta"},
+					{"porc": 30, "nome": "380664368 - Desc30%RetMulta"}
+				],
+				"descontoDep": [{"porc":0,"nome":""}],
+				"BonusInternet": [
+					{"porc":  0, "nome": ""},
+					{"porc":  3, "nome": "414397682 - Bônus de dados 3GB - Controle."},
+					{"porc":  4, "nome": "414397685 - Bônus de dados 4GB - Controle."}
+				],
+				"dependentes": [0]
+			},
+			{
+				"descricao": "Controle - 5 + 2,5",
+				"nomeSistema": "CONTROLE PLAY 5GB - SEM APARELHO",
+				"preco": 79.99,
+				"descontoTitular": [
+					{"porc":  0, "nome": ""},
+					{"porc": 10, "nome": "380664360 - Desc10%RetMulta"},
+					{"porc": 15, "nome": "380664366 - Desc15%RetMulta"},
+					{"porc": 30, "nome": "380664368 - Desc30%RetMulta"}
+				],
+				"descontoDep": [
+					{"porc":  0, "nome": ""}
+				],
+				"BonusInternet": [
+					{"porc":  0, "nome": ""},
+					{"porc":  3, "nome": "414298315 - Bônus de dados 3GB - Controle"},
+					{"porc":  5, "nome": "414298329 - Bônus de dados 5GB - Controle"}
+				],
+				"dependentes": [0]
+			},
+			{
+				"descricao": "Pós 7 + 7 GB",
+				"nomeSistema": "CLARO POS PLAY 7GB - SEM APARELHO",
+				"preco": 119.99,
+				"descontoTitular": [
+					{"porc":  0, "nome": ""},
+					{"porc": 10, "nome": "380809788 - Des12RetPG10%S"},
+					{"porc": 15, "nome": "380809793 - Des12RetPG15%S"},
+					{"porc": 20, "nome": "380809794 - Des12RetPG20%S"}
+				],
+				"descontoDep": [
+					{"porc":  0, "nome": ""},
+					{"porc": 10, "nome": "380810232 - Des10%DepOnMbA"},
+					{"porc": 20, "nome": "380810227 - Des20%DepOnMbA"},
+					{"porc": 30, "nome": "380810228 - Des30%DepOnMbA"}
+				],
+				"BonusInternet": [
+					{"porc":  0, "nome": ""},
+					{"porc":  6, "nome": "414279655 - Bônus 6GB com WhatsApp"},
+					{"porc":  7, "nome": "414333505 - Bônus 7GB com WhatsApp"}
+				],
+				"dependentes": [0,1,2]
+			},
+			{
+				"descricao": "Pós 10 + 10 GB",
+				"nomeSistema": "CLARO POS PLAY 10GB - SEM APARELHO",
+				"preco": 139.99,
+				"descontoTitular": [
+					{"porc":  0, "nome": ""},
+					{"porc": 10, "nome": "380809788 - Des12RetPG10%S"},
+					{"porc": 15, "nome": "380809793 - Des12RetPG15%S"},
+					{"porc": 20, "nome": "380809794 - Des12RetPG20%S"}
+				],
+				"descontoDep": [
+					{"porc":  0, "nome": ""},
+					{"porc": 10, "nome": "380810232 - Des10%DepOnMbA"},
+					{"porc": 20, "nome": "380810227 - Des20%DepOnMbA"},
+					{"porc": 30, "nome": "380810228 - Des30%DepOnMbA"}
+				],
+				"BonusInternet": [
+					{"porc":  0, "nome": ""},
+					{"porc":  6, "nome": "414279655 - Bônus 6GB com WhatsApp"},
+					{"porc":  7, "nome": "414333505 - Bônus 7GB com WhatsApp"},
+					{"porc":  9, "nome": "414279657 - Bônus 8GB com WhatsApp"},
+					{"porc": 10, "nome": "414279659 - Bônus 10GB com WhatsApp"}
+				],
+				"dependentes": [0,1,2,3]
+			},
+			{
+				"descricao": "Pós 15 + 15 GB",
+				"nomeSistema": "CLARO POS PLAY 15GB - SEM APARELHO",
+				"preco": 179.99,
+				"descontoTitular": [
+					{"porc":  0, "nome": ""},
+					{"porc": 10, "nome": "380809788 - Des12RetPG10%S"},
+					{"porc": 15, "nome": "380809793 - Des12RetPG15%S"},
+					{"porc": 20, "nome": "380809794 - Des12RetPG20%S"}
+				],
+				"descontoDep": [
+					{"porc":  0, "nome": ""},
+					{"porc": 10, "nome": "380810232 - Des10%DepOnMbA"},
+					{"porc": 20, "nome": "380810227 - Des20%DepOnMbA"},
+					{"porc": 30, "nome": "380810228 - Des30%DepOnMbA"}
+				],
+				"BonusInternet": [
+					{"porc":  0, "nome": ""},
+					{"porc":  6, "nome": "414279655 - Bônus 6GB com WhatsApp"},
+					{"porc":  7, "nome": "414333505 - Bônus 7GB com WhatsApp"},
+					{"porc":  8, "nome": "414279657 - Bônus 8GB com WhatsApp"},
+					{"porc": 10, "nome": "414279659 - Bônus 10GB com WhatsApp"},
+					{"porc": 12, "nome": "414289893 - Bônus 12GB com WhatsApp"},
+					{"porc": 15, "nome": "414279703 - Bônus 15GB com WhatsApp"}
+				],
+				"dependentes": [0,1,2,3,4]
+			},
+			{
+				"descricao": "Pós 30 + 30 GB",
+				"nomeSistema": "CLARO POS PLAY 30GB - SEM APARELHO",
+				"preco": 259.99,
+				"descontoTitular": [
+					{"porc":  0, "nome": ""},
+					{"porc": 10, "nome": "380809788 - Des12RetPG10%S"},
+					{"porc": 15, "nome": "380809793 - Des12RetPG15%S"},
+					{"porc": 20, "nome": "380809794 - Des12RetPG20%S"}
+				],
+				"descontoDep": [
+					{"porc":  0, "nome": ""},
+					{"porc": 10, "nome": "380810232 - Des10%DepOnMbA"},
+					{"porc": 20, "nome": "380810227 - Des20%DepOnMbA"},
+					{"porc": 30, "nome": "380810228 - Des30%DepOnMbA"}
+				],
+				"BonusInternet": [
+					{"porc":  0, "nome": ""},
+					{"porc":  6, "nome": "414279655 - Bônus 6GB com WhatsApp"},
+					{"porc":  7, "nome": "414333505 - Bônus 7GB com WhatsApp"},
+					{"porc":  8, "nome": "414279657 - Bônus 8GB com WhatsApp"},
+					{"porc": 10, "nome": "414279659 - Bônus 10GB com WhatsApp"},
+					{"porc": 12, "nome": "414289893 - Bônus 12GB com WhatsApp"},
+					{"porc": 15, "nome": "414279703 - Bônus 15GB com WhatsApp"},
+					{"porc": 20, "nome": "414279704 - Bônus 20GB com WhatsApp"},
+					{"porc": 25, "nome": "414279764 - Bônus 25GB com WhatsApp"},
+					{"porc": 30, "nome": "414279705 - Bônus 30GB com WhatsApp"}
+				],
+				"dependentes": [0,1,2,3,4,5]
+			},
+			{
+				"descricao": "Pós 60 + 60 GB",
+				"nomeSistema": "CLARO POS PLAY 60GB - SEM APARELHO",
+				"preco": 399.99,
+				"descontoTitular": [
+					{"porc":  0, "nome": ""},
+					{"porc": 10, "nome": "380809788 - Des12RetPG10%S"},
+					{"porc": 15, "nome": "380809793 - Des12RetPG15%S"},
+					{"porc": 20, "nome": "380809794 - Des12RetPG20%S"}
+				],
+				"descontoDep": [
+					{"porc":  0, "nome": ""},
+					{"porc": 10, "nome": "380810232 - Des10%DepOnMbA"},
+					{"porc": 20, "nome": "380810227 - Des20%DepOnMbA"},
+					{"porc": 30, "nome": "380810228 - Des30%DepOnMbA"}
+				],
+				"BonusInternet": [
+					{"porc":  0, "nome": ""},
+					{"porc":  6, "nome": "414279655 - Bônus 6GB com WhatsApp"},
+					{"porc":  7, "nome": "414333505 - Bônus 7GB com WhatsApp"},
+					{"porc":  8, "nome": "414279657 - Bônus 8GB com WhatsApp"},
+					{"porc": 10, "nome": "414279659 - Bônus 10GB com WhatsApp"},
+					{"porc": 12, "nome": "414289893 - Bônus 12GB com WhatsApp"},
+					{"porc": 15, "nome": "414279703 - Bônus 15GB com WhatsApp"},
+					{"porc": 20, "nome": "414279704 - Bônus 20GB com WhatsApp"},
+					{"porc": 25, "nome": "414279764 - Bônus 25GB com WhatsApp"},
+					{"porc": 30, "nome": "414279705 - Bônus 30GB com WhatsApp"},
+					{"porc": 35, "nome": "414289894 - Bônus 35GB com WhatsApp"},
+					{"porc": 70, "nome": "414279767 - Bônus 70GB com WhatsApp"}
+				],
+				"dependentes": [0,1,2,3,4,5]
+			}
+		],
+		"_movelCompleto":[
+			{
+				"descricao": "Nenhum",
+				"nomeSistema": "",
+				"preco": 0,
+				"descontoTitular": [0],
+				"descontoTitNome": [""],
+				"descontoDep": [0],
+				"descontoDepNome": [""],
+				"BonusInternet": [0],
+				"BonusIntNome": [""],
+				"dependentes": [0]
+			},
+			{
+				"descricao": "Controle - 3",
+				"nomeSistema": "CONTROLE PLAY 3GB - SEM APARELHO",
+				"preco": 49.99,
+				"descontoTitular": [0,10,15,30],
+				"descontoTitNome": ["", "380664360 - Desc10%RetMulta", "380664366 - Desc15%RetMulta", "380664368 - Desc30%RetMulta"],
+				"descontoDep": [0],
+				"descontoDepNome": [""],
+				"BonusInternet": [0,3,4,5],
+				"BonusIntNome": ["", "414224846 - Bônus de dados 3GB - Promo Whatsapp", "414224845 - Bônus de dados 4GB - Promo Whatsapp", "414224847  - Bônus de dados 5GB - Promo Whatsapp"],
+				"dependentes": [0]
+			},
+			{
+				"descricao": "Controle - 4 + 2",
+				"nomeSistema": "CONTROLE PLAY 4GB - SEM APARELHO",
+				"preco": 59.99,
+				"descontoTitular": [0,10,15,30],
+				"descontoTitNome": ["", "380664360 - Desc10%RetMulta", "380664366 - Desc15%RetMulta", "380664368 - Desc30%RetMulta"],
+				"descontoDep": [0],
+				"descontoDepNome": [""],
+				"BonusInternet": [0,3,4],
+				"BonusIntNome": ["","414397682 - Bônus de dados 3GB - Controle.","414397685 - Bônus de dados 4GB - Controle."],
+				"dependentes": [0]
+			},
+			{
+				"descricao": "Controle - 5 + 2,5",
+				"nomeSistema": "CONTROLE PLAY 5GB - SEM APARELHO",
+				"preco": 79.99,
+				"descontoTitular": [0,10,15,30],
+				"descontoTitNome": ["", "380664360 - Desc10%RetMulta", "380664366 - Desc15%RetMulta", "380664368 - Desc30%RetMulta"],
+				"descontoDep": [0],
+				"descontoDepNome": [""],
+				"BonusInternet": [0,3,5],
+				"BonusIntNome": ["", "414298315 - Bônus de dados 3GB - Controle", "414298329 - Bônus de dados 5GB - Controle"],
+				"dependentes": [0]
+			},
+			{
+				"descricao": "Pós 7 + 7 GB",
+				"nomeSistema": "CLARO POS PLAY 7GB - SEM APARELHO",
+				"preco": 119.99,
+				"descontoTitular": [0,10,15,20],
+				"descontoTitNome": ["","380809788 - Des12RetPG10%S","380809793 - Des12RetPG15%S","380809794 - Des12RetPG20%S"],
+				"descontoDep": [0,10,20,30],
+				"descontoDepNome": ["","380810232 - Des10%DepOnMbA","380810227 - Des20%DepOnMbA","380810228 - Des30%DepOnMbA"],
+				"BonusInternet": [0,6,7],
+				"BonusIntNome": ["","414279655 - Bônus 6GB com WhatsApp","414333505 - Bônus 7GB com WhatsApp"],
+				"dependentes": [0,1,2]
+			},
+			{
+				"descricao": "Pós 10 + 10 GB",
+				"nomeSistema": "CLARO POS PLAY 10GB - SEM APARELHO",
+				"preco": 139.99,
+				"descontoTitular": [0,10,15,20],
+				"descontoTitNome": ["","380809788 - Des12RetPG10%S","380809793 - Des12RetPG15%S","380809794 - Des12RetPG20%S"],
+				"descontoDep": [0,10,20,30],
+				"descontoDepNome": ["","380810232 - Des10%DepOnMbA","380810227 - Des20%DepOnMbA","380810228 - Des30%DepOnMbA"],
+				"BonusInternet": [0,6,7,8,10],
+				"BonusIntNome": ["","414279655 - Bônus 6GB com WhatsApp","414333505 - Bônus 7GB com WhatsApp","414279657 - Bônus 8GB com WhatsApp","414279659 - Bônus 10GB com WhatsApp"],
+				"dependentes": [0,1,2,3]
+			},
+			{
+				"descricao": "Pós 15 + 15 GB",
+				"nomeSistema": "CLARO POS PLAY 15GB - SEM APARELHO",
+				"preco": 179.99,
+				"descontoTitular": [0,10,15,20],
+				"descontoTitNome": ["","380809788 - Des12RetPG10%S","380809793 - Des12RetPG15%S","380809794 - Des12RetPG20%S"],
+				"descontoDep": [0,10,20,30],
+				"descontoDepNome": ["","380810232 - Des10%DepOnMbA","380810227 - Des20%DepOnMbA","380810228 - Des30%DepOnMbA"],
+				"BonusInternet": [0,6,7,8,10,12,15],
+				"BonusIntNome": ["","414279655 - Bônus 6GB com WhatsApp","414333505 - Bônus 7GB com WhatsApp","414279657 - Bônus 8GB com WhatsApp","414279659 - Bônus 10GB com WhatsApp","414289893 - Bônus 12GB com WhatsApp","414279703 - Bônus 15GB com WhatsApp"],
+				"dependentes": [0,1,2,3,4]
+			},
+			{
+				"descricao": "Pós 30 + 30 GB",
+				"nomeSistema": "CLARO POS PLAY 30GB - SEM APARELHO",
+				"preco": 259.99,
+				"descontoTitular": [0,10,15,20],
+				"descontoTitNome": ["","380809788 - Des12RetPG10%S","380809793 - Des12RetPG15%S","380809794 - Des12RetPG20%S"],
+				"descontoDep": [0,10,20,30],
+				"descontoDepNome": ["","380810232 - Des10%DepOnMbA","380810227 - Des20%DepOnMbA","380810228 - Des30%DepOnMbA"],
+				"BonusInternet": [0,6,7,8,10,12,15,20,25,30],
+				"BonusIntNome": ["","414279655 - Bônus 6GB com WhatsApp","414333505 - Bônus 7GB com WhatsApp","414279657 - Bônus 8GB com WhatsApp","414279659 - Bônus 10GB com WhatsApp","414289893 - Bônus 12GB com WhatsApp","414279703 - Bônus 15GB com WhatsApp","414279704 - Bônus 20GB com WhatsApp","414279764 - Bônus 25GB com WhatsApp","414279705 - Bônus 30GB com WhatsApp"],
+				"dependentes": [0,1,2,3,4,5]
+			},
+			{
+				"descricao": "Pós 60 + 60 GB",
+				"nomeSistema": "CLARO POS PLAY 60GB - SEM APARELHO",
+				"preco": 399.99,
+				"descontoTitular": [0,10,15,20],
+				"descontoTitNome": ["","380809788 - Des12RetPG10%S","380809793 - Des12RetPG15%S","380809794 - Des12RetPG20%S"],
+				"descontoDep": [0,10,20,30],
+				"descontoDepNome": ["","380810232 - Des10%DepOnMbA","380810227 - Des20%DepOnMbA","380810228 - Des30%DepOnMbA"],
+				"BonusInternet": [0,6,7,8,10,12,15,20,25,30,35,70],
+				"BonusIntNome": ["","414279655 - Bônus 6GB com WhatsApp","414333505 - Bônus 7GB com WhatsApp","414279657 - Bônus 8GB com WhatsApp","414279659 - Bônus 10GB com WhatsApp","414289893 - Bônus 12GB com WhatsApp","414279703 - Bônus 15GB com WhatsApp","414279704 - Bônus 20GB com WhatsApp","414279764 - Bônus 25GB com WhatsApp","414279705 - Bônus 30GB com WhatsApp","414289894 - Bônus 35GB com WhatsApp","414279767 - Bônus 70GB com WhatsApp"],
+				"dependentes": [0,1,2,3,4,5]
+			}
+		],
+		"adicionais":
+			[
+				{
+					"descricao": "HBO",
+					"nomeSistema": "HBO HD",
+					"preco": 35,
+					"naoSuporta": ["Inicial HD","Fácil SD", "Fácil HD" ]
+				},
+				{
+					"descricao": "Telecine",
+					"nomeSistema": "TELECINE HD EXC REV",
+					"preco": 30,
+					"naoSuporta": ["Inicial HD","Fácil SD", "Fácil HD" ]
+				},
+				{
+					"descricao": "Filmes e Séries",
+					"nomeSistema": "FILMES E SERIES",
+					"preco": 90,
+					"naoSuporta": ["Inicial HD","Fácil SD", "Fácil HD", "Essencial SD", "FACIL HD TURBO"]
+				},
+				{
+					"descricao": "Paramount +",
+					"nomeSistema": "PARAMOUNT MAIS",
+					"preco": 19.9,
+					"naoSuporta": ["Inicial HD","Fácil SD", "Fácil HD", "Essencial SD", "FACIL HD TURBO" ]
+				},
+				{
+					"descricao": "Looke",
+					"nomeSistema": "PROMO LOOKE DESC 50% POR 2M",
+					"preco": 16.9,
+					"naoSuporta": ["Inicial HD","Fácil SD", "Fácil HD", "Essencial SD", "FACIL HD TURBO"]
+				},
+				{
+					"descricao": "Fox Premium",
+					"nomeSistema": "PROMO A LA CARTE FOX PREMIUM 14,90 2M",
+					"preco": 24.9,
+					"naoSuporta": ["Inicial HD","Fácil SD", "Fácil HD", "Essencial SD", "FACIL HD TURBO" ]
+				},
+				{
+					"descricao": "Dependente",
+					"nomeSistema": "",
+					"preco": 39.99,
+					"naoSuporta": []
+				},
+				{
+					"descricao": "Ponto Adicional",
+					"nomeSistema": "a TV já vem com PO adicional por R$10 - vide nomenclaturas TVs",
+					"preco": 10,
+					"naoSuporta": []
+				},
+				{
+					"descricao": "Premiere Total",
+					"nomeSistema": "PREMIERE FUTEBOL TOTAL HD",
+					"preco": 109.9,
+					"naoSuporta": ["Inicial HD","Fácil SD", "Fácil HD", "FACIL HD TURBO" ]
+				},
+				{
+					"descricao": "Combate",
+					"nomeSistema": "PREMIERE COMBATE DIG HD",
+					"preco": 89.9,
+					"naoSuporta": ["Inicial HD","Fácil SD", "Fácil HD", "FACIL HD TURBO" ]
+				},
+				{
+					"descricao": "Esportes",
+					"nomeSistema": "ESPORTE HD",
+					"preco": 21.9,
+					"naoSuporta": ["Inicial HD","Fácil SD", "Fácil HD", "FACIL HD TURBO" ]
+				},
+				{
+					"descricao": "Adulto (SH+PB+VN+SX)",
+					"nomeSistema": "SH+PB+VN+SX HD",
+					"preco": 39.9,
+					"naoSuporta": ["Inicial HD"]
+				},
+				{
+					"descricao": "Philos",
+					"nomeSistema": "PROMO A LA CARTE PHILOS 9,95 2M",
+					"preco": 19.9,
+					"naoSuporta": ["Inicial HD","Fácil SD", "Fácil HD", "Essencial SD", "FACIL HD TURBO" ]
+				},
+				{
+					"descricao": "Noticia",
+					"nomeSistema": "NOTICIA DIGITAL",
+					"preco": 10.9,
+					"naoSuporta": ["Inicial HD","Fácil SD", "Fácil HD" ]
+				},
+				{
+					"descricao": "Mundo",
+					"nomeSistema": "MUNDO",
+					"preco": 10.9,
+					"naoSuporta": ["Inicial HD","Fácil SD", "Fácil HD" ]
+				},
+				{
+					"descricao": "Canal Coréia",
+					"nomeSistema": "TV COREIA DIGITAL",
+					"preco": 41.9,
+					"naoSuporta": ["Inicial HD"]
+				},
+				{
+					"descricao": "Dog TV",
+					"nomeSistema": "PROMO A LA CARTE DOG TV 9,95 2M",
+					"preco": 19.9,
+					"naoSuporta": ["Inicial HD","Fácil SD", "Fácil HD", "Essencial SD", "FACIL HD TURBO" ]
+				},
+				{
+					"descricao": "HD Max",
+					"nomeSistema": "TOP HD MAX IND PAD EXC REV FID",
+					"preco": 20,
+					"naoSuporta": ["Inicial HD","Fácil SD", "Fácil HD", "Essencial SD", "FACIL HD TURBO" ]
+				},
+				{
+					"descricao": "HD Max",
+					"nomeSistema": "TOP HD MAX IND ATQ EXC REV FID",
+					"preco": 20,
+					"naoSuporta": ["Inicial HD","Fácil SD", "Fácil HD", "Essencial SD", "FACIL HD TURBO" ]
+				},
+				{
+					"descricao": "HD Max",
+					"nomeSistema": "TOP HD MAX C/VTA PAD EXC REV FID",
+					"preco": 20,
+					"naoSuporta": ["Inicial HD","Fácil SD", "Fácil HD", "Essencial SD", "FACIL HD TURBO" ]
+				},
+				{
+					"descricao": "HD Max",
+					"nomeSistema": "TOP HD MAX C/VTA ATQ EXC REV FID",
+					"preco": 20,
+					"naoSuporta": ["Inicial HD","Fácil SD", "Fácil HD", "Essencial SD", "FACIL HD TURBO" ]
+				},
+				{
+					"descricao": "Mix 4K",
+					"nomeSistema": "",
+					"preco": 30,
+					"naoSuporta": ["Inicial HD","Fácil SD", "Fácil HD", "Essencial SD", "FACIL HD TURBO", "Top HD"]
+				},
+				{
+					"descricao": "Top 4k",
+					"nomeSistema": "",
+					"preco": 10,
+					"naoSuporta": ["Inicial HD","Fácil SD", "Fácil HD", "Essencial SD", "FACIL HD TURBO", "Mix HD"]
+				},				
+				{
+					"descricao": "Pag. por Boleto",
+					"nomeSistema": "",
+					"preco": 10,
+					"naoSuporta": []
+				}
+			]
+	},
+	"empacotadas":
+		[
+			{
+				"descricao": "Nenhum",
+				"nomeSistema": "",
+				"preco": 0,
+				"suporta": []
+			},
+			{
+				"descricao": "Filmes e Séries",
+				"nomeSistema": "FL SR",
+				"preco": 0,
+				"suporta": ["Mix HD", "Top HD", "Top HD MAX", "Top HD 4K"],
+				"oferta": ["HBO", "Telecine"  ,"Fox Premium","Paramount +","Filmes e Séries"]
+			},
+			{
+				"descricao": "Futebol",
+				"nomeSistema": "FUT",
+				"preco": 0,
+				"suporta": ["Mix HD", "Top HD", "Top HD MAX", "Top HD 4K"],
+				"oferta": ["Premiere Total"]
+			}
+		],
+	"ranges":
+		{
+			"0": [20, 5],
+			"1": [5, 5],
+			"2": [0, 5],
+			"3": [20, 30, 10, 20, 5, 10],
+			"4": [5, 5]
+		},
+	"erros":
+		{
+			"maisProdutos": "ATENÇÃO: Ofereça mais benefícios que o cliente não possui em Selecionar Produto e rode o passo novamente (exemplo: Premiere, HBO, Telecine, Paramount +, HD Max).",
+			"pacoteErrado": "Pacote entrado de maneira incorreta, verifique.",
+			"semSugestao": "Não existe pacote que reduza o valor do cliente, cliente já possui valor menor que de qualquer pacote existente.",
+			"precoMenor": "Preço atual menor que preço de prateleira"
+		},
+	"help":
+		{
+			"pacoteAtual": "Preencha o pacote atual do cliente à partir de informações disponíveis no NETSMS. Não esqueça de incluir os produtos la carte (HBO, Telecine, Paramount +, Premiere, etc.)",
+			"precoAtual": "<span>Preencha o preço atual pago pelo cliente à partir das informações disponíveis no <b>campo de assinatura</b> do NETSMS. O campo 'Outros' deve incluir os adicionais que o cliente possui, como pacotes a la carte, HD Max, 4K, etc.</span>",
+			"prefCliente": "Marque qual a preferência informada pelo cliente: prefere/usa mais banda larga ou TV",
+			"selecProduto": "Adicione ou remova produtos do cliente para simulação. Por exemplo: caso queira que o simulador dê opções com um la carte que o cliente não possui, adicione aqui.",
+			"mudarFone": "Escolha o plano de telefone que o simulador irá utilizar para sugerir as ofertas. Tente sempre manter ou melhorar o plano atual do cliente",
+			"pacoteCelular": "Caso o cliente informe, preencha com as informações do pacote atual de celular do cliente. *Este não é um campo obrigatório",
+			"abordagem": "Siga o passo-a-passo da abordagem e verique as opções de oferta em cada passo. IMPORTANTE: Não pule nenhum passo",
+			"ofertasNET": "Escolha a melhor oferta para a situação do cliente. Clique no campo 'Outros' para ver o preço dos produtos adicionais.",
+			"selecPlanoMovel": "Escolha o plano de móvel que deseja incluir na oferta para o cliente.",
+			"ofertasCombo": "Escolha a melhor oferta Combo Multi para a situação do cliente. Clique no campo 'Outros' para ver o preço dos produtos adicionais."
+		},
+	"versao":
+		{
+			"0": "completa",
+			"1": "completaSemMovel; pl-movel",
+			"2": "reduzida",
+			"3": "reduzidaSemMovel; pl-movel",
+			"4": "completaMovel",
+			"5": "reduzidaMovel"
+		},
+	"versaoAtual":
+		{
+			"0": "2"
+		}
+}
