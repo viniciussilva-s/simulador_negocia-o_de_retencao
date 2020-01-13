@@ -83,7 +83,7 @@
     }
   },
   "pacoteTV": [
-    {"pacote": "Filmes e Séries", "sigla": "FL SR", "canais": ["HBO", "Telecine HD", "Telecine SD", "Paramount +", "Fox Premium", "Filmes e Séries"]},
+    {"pacote": "Filmes e Séries", "sigla": "FL SR", "canais": ["HBO", "Telecine", "Paramount +", "Fox Premium", "Filmes e Séries"]},
     {"pacote": "Futebol", "sigla": "FUT", "canais": ["Premiere"]}
   ],
   "erros":

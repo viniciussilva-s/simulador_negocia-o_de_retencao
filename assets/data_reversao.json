@@ -135,7 +135,7 @@
 				{
 					"descricao": "Top HD",
 					"nomeSistema": "TOP HD MAX FL SR C/VTA PAD EXC RET FID",
-					"preco": 220,
+					"preco": 210,
 					"tipoPreco": "Prateleira",
 					"matriz": "completa",
 					"rank": 6
@@ -143,7 +143,7 @@
 				{
 					"descricao": "Top HD",
 					"nomeSistema": "TOP HD MAX FL SR C/VTA ATQ EXC RET FID",
-					"preco": 200,
+					"preco": 190,
 					"tipoPreco": "Ataque",
 					"matriz": "completa",
 					"rank": 6

@@ -183,7 +183,7 @@
 				{
 					"descricao": "Top HD",
 					"nomeSistema": "TOP HD MAX FUT C/VTA PAD EXC RET FID",
-					"preco": 242,
+					"preco": 232,
 					"tipoPreco": "Prateleira",
 					"matriz": "completa",
 					"rank": 6
@@ -191,7 +191,7 @@
 				{
 					"descricao": "Top HD",
 					"nomeSistema": "TOP HD MAX FUT C/VTA ATQ EXC RET FID",
-					"preco": 222,
+					"preco": 212,
 					"tipoPreco": "Ataque",
 					"matriz": "completa",
 					"rank": 6
@@ -568,7 +568,7 @@
 				{
 					"descricao": "Top HD",
 					"nomeSistema": "TOP HD MAX FUT IND PAD EXC RET FID",
-					"preco": 242,
+					"preco": 232,
 					"tipoPreco": "Prateleira",
 					"matriz": "completa",
 					"rank": 6
@@ -576,7 +576,7 @@
 				{
 					"descricao": "Top HD",
 					"nomeSistema": "TOP HD MAX FUT IND ATQ EXC RET FID",
-					"preco": 232,
+					"preco": 212,
 					"tipoPreco": "Ataque",
 					"matriz": "completa",
 					"rank": 6
