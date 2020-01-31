@@ -72,9 +72,9 @@
       ]
     },
     "4": {"limite": 3, "limiteEmp": 2, "rankAtivo": true, "intervalo": [
-      {"de": -10, "ate": -5, "ate2": -5 },
-      {"de": -20, "ate": -10, "ate2": -10 },
-      {"de": -30, "ate": -20, "ate2": -20 }
+      {"de": -10, "ate": 0, "ate2": 0 },
+      {"de": -20, "ate": 0, "ate2": 0 },
+      {"de": -30, "ate": 0, "ate2": 0 }
       ]
     },
     "5": {"limite": 5, "limiteEmp": 2, "rankAtivo": true, "intervalo": [
